@@ -16,9 +16,8 @@ artifacts:
   type: 
   files:
     - index.jade
-    - appspec.yml
     - scripts/install_dependencies
     - scripts/start_server
-    - Dockerfile
-    - Jenkinsfile
     - back.jpg
+    - app.js
+    - package.json
