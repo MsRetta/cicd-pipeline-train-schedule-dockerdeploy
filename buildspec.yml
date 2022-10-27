@@ -18,6 +18,3 @@ artifacts:
     - appspec.yml
     - scripts/install_dependencies
     - scripts/start_server
-    - back.jpg
-    - app.js
-    - package.json
